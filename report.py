@@ -26,7 +26,7 @@ def main():
     data = data_list(filename)
     cd = make_cartridge_report(data)
     cd_t = cd.items()
-    for key in sorted(cd_t, key=lambda key: key[1]):
+    for key in sorted(cd_t, key=lambda key: key[1], reverse=True):
         print('{:<4} = {:>3}'.format(key[0], key[1]))
 
 if __name__ == '__main__':
