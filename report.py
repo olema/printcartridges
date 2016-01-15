@@ -25,8 +25,9 @@ def main():
     filename = 'cartidge_replacement.txt'
     data = data_list(filename)
     cd = make_cartridge_report(data)
-    for key in sorted(cd):
-        print('{:<4} = {:>3}'.format(key, cd[key]))
+    cd_t = cd.items()
+    for key in sorted(cd_t):
+        print('{:<4} = {:>3}'.format(key[0], key[1]))
 
 if __name__ == '__main__':
     main()
