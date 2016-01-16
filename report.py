@@ -20,6 +20,14 @@ def make_cartridge_report(data):
             cart_dict[i[0]] = 1
     return cart_dict
 
+def make_place_dict(data):
+    place_dict = dict()
+    for i in data:
+        if i[3] in place_dict:
+            place_dict[i[3]].append([i[0], i[1], i[2]])
+        else:
+            place_dict[i[3]] = [[i[0], i[1], i[2]]] 
+    return place_dict
 
 def main():
     filename = 'cartidge_replacement.txt'
@@ -28,6 +36,15 @@ def main():
     cd_t = cd.items()
     for key in sorted(cd_t, key=lambda key: key[1], reverse=True):
         print('{:<4} = {:>3}'.format(key[0], key[1]))
+    pr = make_place_dict(data)
+#    f = open('place.report', 'w')
+    for key in pr:
+        print('=' * 5)
+        print(' -> {}'.format(key))
+        d = 1
+        for i in pr[key]:
+            print('  {}. {}'.format(d, ', '.join(i)))
+            d += 1
 
 if __name__ == '__main__':
     main()
