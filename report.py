@@ -38,12 +38,12 @@ def main():
         print('{:<4} = {:>3}'.format(key[0], key[1]))
     pr = make_place_dict(data)
 #    f = open('place.report', 'w')
-    for key in pr:
+    for key in sorted(pr):
         print('=' * 5)
         print(' -> {}'.format(key))
         d = 1
         for i in pr[key]:
-            print('  {}. {}'.format(d, ', '.join(i)))
+            print('   {:<3}. {}'.format(d, ', '.join(i)))
             d += 1
 
 if __name__ == '__main__':
