@@ -28,7 +28,7 @@
 85a, 18.03.2015, hp p1102, lunina
 05x, 19.03.2015, hp p2055dn, econom
 85a, 20.03.2015, canon 6000, zp left
-12a, 24.03.2015, ?, medarch vrach-epidemiolog
+12a, 24.03.2015, hp 1018, medarchive epidemiolog
 85a, 24.03.2015, canon 6000, 14a left
 12a, 27.03.2015, canon 2900, datsishina
 05a, 07.04.2015, hp p2055dn, zp right
@@ -51,21 +51,21 @@
 36a, 01.06.2015, hp m1120, kadr left
 85a, 02.06.2015, canon 6000, sekr
 85a, 04.06.2015, canon 6000, anton
-85a, 05.06.2015, ?, nevrova
+85a, 05.06.2015, hp m1212nf, nevrova
 12a, 08.06.2015, canon 2900, datsishina
 05a, 08.06.2015, hp p2055dn, econom
 85a, 11.06.2015, canon 6000, 14a left
 85a, 11.06.2015, hp p1102, lunina
 85a, 15.06.2015, canon 6000, bogdanova
-85a, 29.06.2015, canon 6000, econom
+85a, 29.06.2015, canon 6000, econom dima
 85a, 02.07.2015, canon 6000, sekr
 85a, 06.07.2015, hp p1102, lunina
 85a, 13.07.2015, canon 6000, kassa lena
-12a, 15.07.2015, ?, veremeychik
-85a, 23.07.2015, ?, pischeblok
+12a, 15.07.2015, hp 1018, veremeychik
+85a, 23.07.2015, canon 6000, pischeblok
 05x, 23.07.2015, hp p2055dn, econom
 12a, 27.07.2015, canon 2900, program
-1610, 28.07.2015, ?, ddo
+1610, 28.07.2015, samsung 2015, ddo
 85a, 31.07.2015, canon 6000, 14a left
 85a, 03.08.2015, hp p1102, lunina
 85a, 04.09.2015, canon 6000, sekr
@@ -75,17 +75,17 @@
 85a, 14.08.2015, canon 6000, kassa lena
 703, 14.08.2015, canon 2900, 14a right
 85a, 17.08.2015, canon 6000, kassa lena
-85a, 19.08.2015, canon 6000, econom
+85a, 19.08.2015, canon 6000, econom dima
 12a, 19.08.2015, canon 2900, datsishina
 85a, 25.08.2015, canon 6000, 14a left
 85a, 07.09.2015, canon 6000, sekr
 703, 08.09.2015, hp 1018, apteka
 85a, 10.09.2015, canon 6000, bogdanova
 85a, 11.09.2015, canon 6000, 14a left
-85a, 18.09.2015, canon 6000, econom
+85a, 18.09.2015, canon 6000, econom dima
 85a, 18.09.2015, hp p1102, kadr right
-ep22, 22.09.2015, ?, 6-otd zav
-85a, 24.09.2015, canon 6000, econom
+ep22, 22.09.2015, canon 1120, 6-otd zav
+85a, 24.09.2015, canon 6000, econom dima
 12a, 29.09.2015, canon 3000, kassa olga
 703, 02.10.2015, canon 2900, 14a right
 85a, 05.10.2015, hp p1102, lunina
@@ -96,42 +96,42 @@ ep22, 22.09.2015, ?, 6-otd zav
 85a, 09.10.2015, canon 6000, 14a left
 703, 09.10.2015, canon 2900, datsishina
 85a, 12.10.2015, canon 6000, sekr
-85a, 12.10.2015, canon 6000, econom
+85a, 12.10.2015, canon 6000, econom dima
 85a, 15.10.2015, canon 6000, kassa lena
 12a, 15.10.2015, ?, reanim neruchev
 85a, 21.10.2015, hp p1102, lunina
-85a, 26.10.2015, canon 6000, econom
+85a, 26.10.2015, canon 6000, econom dima
 703, 28.10.2015, canon 2900, devyanin
 85a, 28.10.2015, canon 6000, zp left
-1610, 30.10.2015, ?, ddo
+1610, 30.10.2015, samsung 2015, ddo
 85a, 02.11.2015, canon 6000, bogdanova
-85a, 05.11.2015, canon 6000, econom
+85a, 05.11.2015, canon 6000, econom dima
 85a, 06.11.2015, canon 6000, 14a left
 85a, 09.11.2015, canon 6000, sekr
 05x, 18.11.2015, hp p2055dn, econom
-85a, 25.11.2015, canon 6000, econom
+85a, 25.11.2015, canon 6000, econom dima
 85a, 27.11.2015, hp p1102, lunina
-85a, 30.11.2015, canon 2900, 14a right
-85a, 01.12.2015, ?, zavhoz
-12a, 02.12.2015, ?, nachkadr
+703, 30.11.2015, canon 2900, 14a right
+85a, 01.12.2015, canon mf3010, zavhoz
+12a, 02.12.2015, canon 2900, nachkadr
 12a, 04.12.2015, hp 1018, apteka
-85a, 04.12.2015, hp 1102, kadr right
-85a, 04.12.2015, canon 6000, econom
+85a, 04.12.2015, hp p1102, kadr right
+85a, 04.12.2015, canon 6000, econom dima
 85a, 07.12.2015, canon 6000, sekr
 36a, 07.12.2015, hp m1120, kadr left
 85a, 10.12.2015, canon 6000, kassa lena
 12a, 10.12.2015, canon 2900, datsishina
-85a, 14.12.2015, ?, nevrova
-85a, 15.12.2015, canon 6000, econom
+85a, 14.12.2015, hp m1212nf, nevrova
+85a, 15.12.2015, canon 6000, econom dima
 85a, 15.12.2015, hp p1102, lunina
-85a, 15.12.2015, ?, reanim neruchev
+85a, 15.12.2015, hp m1132, reanim neruchev
 36a, 15.12.2015, hp m1120, kadr left
 85a, 18.12.2015, canon 6000, 14a left
 85a, 29.12.2015, canon 6000, sekr
 85a, 30.12.2015, canon 6000, econom dima
 12a, 30.12.2015, canon 2900, kassa olga
-92a, 06.01.2016, ?, hramtsova
-12a, 12.01.2016, ?, epidemiolog
+92a, 06.01.2016, canon 1120, hramtsova
+12a, 12.01.2016, hp 1018, medarchiv epidemiolog
 05x, 12.01.2016, hp p2055dn, econom
 85a, 14.01.2016, hp p1102, lunina
 85a, 14.01.2016, canon 6000, econom dima
